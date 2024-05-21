@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Planify (final)</string>
+    <string name="backArrow"><![CDATA[<-]]></string>
+    <string name="forwardArrow"><![CDATA[->]]></string>
+    <string name="back">←</string>
+    <string name="forward">→</string>
+</resources>
